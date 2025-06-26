@@ -1011,8 +1011,7 @@ https://habr.com/ru/companies/ruvds/articles/724452/?telegram_habr&utm_medium=so
 https://xakep.ru/2023/04/12/wolverine-gpt-4/ - Экспериментальный проект «Росомаха» использует ИИ, чтобы чинить код на лету
 https://telegra.ph/Vvodnaya-ob-udalennyh-serverah-04-12 - Вводная об удаленных серверах
 https://bookflow.ru/ispolzovanie-chatgpt-dlya-devops/ - Использование ChatGPT для DevOps
-https://github.com/ente-io/auth/#readme - приложении для генерации 2FA кодов с открытым исходным кодом.
-Использует облачные зашифрованные бэкапы, как их другой продукт ente Photos (https://t.me/KladovkaPavlu/1250); Удобная синхронизация между устройствами; Три вида импорта и экспорта токенов (qr, ручной ввод, загрузка из файла)
+https://github.com/ente-io/auth/#readme - приложении для генерации 2FA кодов с открытым исходным кодом. Использует облачные зашифрованные бэкапы, как их другой продукт ente Photos; Удобная синхронизация между устройствами; Три вида импорта и экспорта токенов (qr, ручной ввод, загрузка из файла)
 https://www.linuxlinks.com/100-great-must-have-cli-linux-applications/ - 100 отличных и обязательных CLI-приложений для Linux
 https://habr.com/ru/companies/ruvds/articles/727072/ https://towardsdev.com/system-observability-in-a-nutshell-72018e596ec5 - Основные аспекты наблюдаемости систем
 https://www.sqlshack.com/postgresql-tutorial-for-beginners/ - Учебник по PostgreSQL для начинающих
