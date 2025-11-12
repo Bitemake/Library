@@ -1509,3 +1509,4 @@ https://xakep.ru/2025/10/27/htb-artificial/ - Эксплуатируем баг 
 https://xakep.ru/2025/10/29/smart-bypass/ - Пробуем перехитрить защитные средства для Windows
 https://xakep.ru/2025/10/30/car-modem-rce/ - Эксплуатируем RCE в головном устройстве автомобиля
 https://xakep.ru/2025/11/01/htb-voleur/ - Выходим из окружения WSL и повышаем привилегии на сервере
+https://xakep.ru/2025/11/10/htb-rustykey/ - Применяем COM Hijacking для захвата сервера на Windows
